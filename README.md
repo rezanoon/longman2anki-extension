@@ -1,0 +1,1 @@
+# longman2anki-extension
